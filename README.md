@@ -1,13 +1,9 @@
-<h1>Hello World</h1>
-
-<h2>Hey everyone, i'm a front-end developer...</h2>
-
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Hi &#128075, i'm Rian, but you can call me Pollar</li>
+  <li>I'm a Front-End Developer early career</li>
+  <li>I'm currently student &#128126</li>
 </ul>
 
 <div>
-  <img src="marca.gif" width="200px">
+  <img src="marca.gif" width="400px">
 </div>
