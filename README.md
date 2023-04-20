@@ -5,5 +5,5 @@
 </ul>
 
 <div>
-  <img src="marca.gif" width="400px">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
 </div>
