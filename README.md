@@ -1,8 +1,6 @@
-<ul>
-  <li>Hi &#128075, i'm Rian, but you can call me Pollar</li>
-  <li>I'm a Front-End Developer early career</li>
-  <li>I'm currently student &#128126</li>
-</ul>
+# Olá, me chamo Rian ! 
+## Bem vindo(a) ao meu perfil GitHub 👋
+<p>sou um estudante de Front-end há algum tempo, aqui você pode encontrar varios de meus projetos.</p>
 
 <div>
   <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
